@@ -1,6 +1,8 @@
 #I. Install 
 
 ```bash
+git clone https://github.com/kuzovkov/machine1 sitename
+cd sitename
 sudo docker-compose build
 sudo docker-compose up -d
 ```
