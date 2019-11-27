@@ -30,5 +30,6 @@ return array(
 							"message"=>"Our application is currently undergoing sheduled maintenance.<br>Thank you for your understanding."
 							)
 					)
-			)
+			),
+	"activeDb"=>"default"
 	);

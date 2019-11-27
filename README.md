@@ -35,9 +35,9 @@ Ubiquity info:routes
 
 # create an action (sayHello) with a parameter (name), and the associated route (to)
 Ubiquity action DefaultController.sayHello -p=name -r=to/{name}/
-
-
 ```
+
+Read more in the [Djcumentation](https://micro-framework.readthedocs.io/).
 
 #III Remove project files
 
