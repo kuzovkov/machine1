@@ -37,7 +37,7 @@ Ubiquity info:routes
 Ubiquity action DefaultController.sayHello -p=name -r=to/{name}/
 ```
 
-Read more in the [Djcumentation](https://micro-framework.readthedocs.io/).
+Read more in the [Documentation](https://micro-framework.readthedocs.io/).
 
 #III Remove project files
 
