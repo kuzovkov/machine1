@@ -1,10 +1,14 @@
 <?php
 return array(
 	"devtools-path"=>"Ubiquity",
-	"info"=>array(),
+	"info"=>array(
+			"rest",
+			"controllers"
+			),
 	"display-cache-types"=>array(
 			"controllers",
-			"models"
+			"models",
+			"queries"
 			),
 	"maintenance"=>array(
 			"on"=>false,

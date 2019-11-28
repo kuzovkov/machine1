@@ -37,11 +37,18 @@ Ubiquity info:routes
 
 # create an action (sayHello) with a parameter (name), and the associated route (to)
 Ubiquity action DefaultController.sayHello -p=name -r=to/{name}/
-```
 
+#create crud controllers and views
+Ubiquity crud --resource=User --path=/users/
+```
 Read more in the [Documentation](https://micro-framework.readthedocs.io/).
 
-#III Remove project files
+#IIIManage database
+
+Go to [http://localhost:8007/mydbdiffo/mydbdiffo.php](http://localhost:8007/mydbdiffo/mydbdiffo.php)
+for manage you database. This tool allow you to create database from visual editor;
+
+#IV Remove project files
 
 ```bash
 sudo rm -rf app/*

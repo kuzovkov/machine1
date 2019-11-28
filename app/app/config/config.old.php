@@ -16,7 +16,7 @@ return array(
 	"templateEngine"=>"Ubiquity\\views\\engine\\Twig",
 	"templateEngineOptions"=>array(
 			"cache"=>false,
-			"activeTheme"=>"foundation"
+			"activeTheme"=>"semantic"
 			),
 	"test"=>false,
 	"debug"=>false,
